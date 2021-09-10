@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.item {
+  width: 75%;
+  height: auto;
+  border-color: black;
+  border-radius: 10px;
+  border: 3px solid;
+  background-color: rgb(240, 240, 240);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  float: center;
+  padding: 1rem;
+  margin-bottom: 15px;
+}
+
+.data {
+  text-align: center;
+  font-size: large;
+  color: #1519fd;
+}
+
+p {
+  font-size: x-large;
+}
+
+.button {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  text-align: center;
+}
